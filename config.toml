@@ -1,0 +1,33 @@
+baseURL = "http://tamplin.net/"
+languageCode = "en-us"
+title = "James Tamplin"
+theme = "hyde-hyde"
+
+## Site Settings
+[params]
+    author = "James Tamplin"
+    description = "I’m currently on sabbatical. Prior to that I co-founded and led Firebase from inception through acquisition, and on to become Google’s flagship app development platform. I'm an angel investor in companies like Segment, Monzo, b8ta, Imgix, and more."
+    ##authorimage = "/images/andrew.jpg"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    highlightjsstyle = "github"
+    GoogleAnalyticsID = "UA-19224664-1"
+
+## Social Accounts
+[params.social]
+	twitter = "jamestamplin"
+	gravatar = "james@tamplin.net"
+	linkedin = "jamest"
+
+## Main Menu
+##[[menu.main]]
+##    name = "Posts"
+##    weight = 100
+##    identifier = "posts"
+##    url = "/posts/"
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/about/"

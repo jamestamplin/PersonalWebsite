@@ -14,7 +14,7 @@ The earthquake killed ~316,000 people, including everyone who was inside my hote
 
 I don’t have the words to express how fortunate I feel to still be here. My roommate and business partner, Andrew, and I were _so_ incredibly lucky to survive.
 
-1,825 days have now passed. I’ve spent most of those building a team and a product I’m passionate about. Firebase has flourished and is now a part of Google. I’ve been lucky enough to laugh at dinner parties, , and hug those I love.
+1,825 days have now passed. I’ve been lucky enough to laugh at dinner parties and hug those I love. Most of those days have been spent building a team and a product I’m passionate about. Firebase has flourished and is now a part of Google.
 
 I haven’t been back to Haiti yet. I’ll go. I now have the means to help and intend to.
 

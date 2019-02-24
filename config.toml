@@ -2,7 +2,8 @@ baseURL = "http://tamplin.net/"
 languageCode = "en-us"
 title = "James Tamplin"
 theme = "hyde-hyde"
-summarylength = 12
+summarylength = 15
+enableRobotsTXT = true
 
 
 ## Site Settings

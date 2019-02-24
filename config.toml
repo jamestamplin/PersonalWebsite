@@ -2,6 +2,8 @@ baseURL = "http://tamplin.net/"
 languageCode = "en-us"
 title = "James Tamplin"
 theme = "hyde-hyde"
+summarylength = 12
+
 
 ## Site Settings
 [params]
@@ -17,6 +19,7 @@ theme = "hyde-hyde"
 	gravatar = "james@tamplin.net"
 	linkedin = "jamest"
 
+## Uncomment this to add in posts link
 ## Main Menu
 ##[[menu.main]]
 ##    name = "Posts"
@@ -24,8 +27,9 @@ theme = "hyde-hyde"
 ##    identifier = "posts"
 ##    url = "/posts/"
 
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 300
-    url = "/about/"
+## Uncomment this to add in link to about page
+##[[menu.main]]
+##    name = "About"
+##    identifier = "about"
+##    weight = 300
+##    url = "/about/"
